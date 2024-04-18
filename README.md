@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! My name Michal Nithesh</h2>
 
+<p align="left">I'm ... from Nagercoil<br><br>- Web developer<br>- 🔭 How to reach me @michalnithesh.cs22@stellamaryscoe.edu.in<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I like to play Football</p>
+
+###
+
+<div align="center">
+  <img height="150" src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-2.png"  />
+</div>
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -72,6 +80,6 @@
 
 ###
 
-
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
