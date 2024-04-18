@@ -15,7 +15,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -69,7 +69,7 @@
 </div>
 
 ###
-
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
