@@ -72,8 +72,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&theme=nightowl&username=Nithesh14" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
