@@ -6,6 +6,9 @@
 
 ###
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nithesh14&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 <div align="center">
   <img height="150" src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-2.png"  />
 </div>
@@ -89,8 +92,6 @@
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithesh14&" alt="nithesh14" /></p>
-
-![alt text](badge_url)
 
 
 ###
