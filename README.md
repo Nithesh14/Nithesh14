@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Michal Nithesh </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithesh14&label=Profile%20views&color=0e75b6&style=flat" alt="nithesh14" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=nithesh14&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <h2 align="left">I'm from Nagercoil</h2><br>- 🔭Web developer<br>  - 📫 How to reach me michalnithesh.cs22@stellamaryscoe.edu.in<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I like to play Football</p>
 
@@ -17,8 +18,9 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
-<h2 align="left">Languages and Tools:</h2><br>
+## 🖥️ Skills:
+```Good and wanted to be good at✨```
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -72,7 +74,9 @@
 </div>
 
 ###
-<h2 align="left">Connect with me:</h2><br>
+
+<h2 align="left">🌐 Connect with me:</h2><br>
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -85,13 +89,15 @@
 
 ###
 
-<h2 align="left">My Stats :</h2>
-<div align="left">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithesh14&show_icons=true&locale=en" alt="nithesh14" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nithesh14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithesh14&" alt="nithesh14" /></p>
+<a href="http://www.github.com/nithesh14"><img src="https://github-readme-stats.vercel.app/api?username=nithesh14&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="roshan-lal-dia's GitHub stats" /></a>
+
+<a href="http://www.github.com/nithesh14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nithesh14&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+
+<a href="http://www.github.com/nithesh14"><img src="https://github-readme-activity-graph.vercel.app/graph?username=nithesh14&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/nithesh14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithesh14&langs_count=10&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ###
